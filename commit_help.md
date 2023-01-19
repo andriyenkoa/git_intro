@@ -4,3 +4,4 @@
 '* Чтобы одной командой добавить все изменённые файлы и сделать коммит, выполните `git commit -am "commit message"`'  
 '* Новые файлы добавлены не будут'  
 '* Статья про коммиты: https://github.com/RomuloOliveira/commit-messages-guide/blob/master/README_ru-RU.md'  
+
